@@ -9,4 +9,5 @@
     *NoSQL (mongodb)
     *HTML/CSS(materialize css , bootstrap , sass , material ui)
     *C#(ASP.NET)
-- I have also worked as UI/UX designer (using Figma , adobe xd , Inkscape )
+- I have also worked as UI/UX designer (using Figma , adobe xd , Inkscape and others )
+- Control Version System (git/github)
