@@ -11,3 +11,6 @@
     * C#(ASP.NET)
 - I have also worked as UI/UX designer (using Figma , adobe xd , Inkscape and others )
 - Control Version System (git/github)
+
+# Hire ME
+![kevin flyer](https://user-images.githubusercontent.com/89461855/135661476-e71cfa18-959e-4fc1-ae99-f3f59b5b9fa8.png)
