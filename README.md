@@ -14,3 +14,5 @@
 - Control Version System (git/github)
 
 ![kevin flyer](https://user-images.githubusercontent.com/89461855/135661476-e71cfa18-959e-4fc1-ae99-f3f59b5b9fa8.png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinNdahayo)](https://github.com/kevinNdahayo/github-readme-stats)
