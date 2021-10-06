@@ -17,4 +17,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinNdahayo)](https://github.com/kevinNdahayo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinNdahayo&exclude_repo=github-readme-stats,kevinNdahayo.github.io)
