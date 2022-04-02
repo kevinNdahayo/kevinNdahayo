@@ -20,5 +20,4 @@ Skills: REACT / JS / HTML / CSS / Node.js / Typescript / MongoDB / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinNdahayo&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/kevinNdahayo)  
 
